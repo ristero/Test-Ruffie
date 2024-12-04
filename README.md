@@ -1,4 +1,4 @@
 # Test-Ruffie
-## Рівень працездатності серцево-судинної системи
-**Програма складається з тьох вікон: перше вікно ознайомлює нас з самим тестом, друге це самий тест, в якому ми вписуємо потрібні данні і заміри, третє вікно , це вікно з результатами тесту, в ньому ви дізнаєтесь рівень працездатності серцево-судинної системи особи, яка проходила цей тест.**
-#Далі буде
+## Das Leistungsniveau des Herz-Kreislauf-Systems
+**Das Programm besteht aus diesen Fenstern: Das erste Fenster führt uns in den Test selbst ein, das zweite ist der Test selbst, in dem wir die notwendigen Daten und Messungen eingeben, das dritte Fenster ist das Fenster mit den Testergebnissen, die Sie darin finden den Leistungsstand des Herz-Kreislauf-Systems einer Person ermitteln, die diesen Test bestanden hat.**
+
