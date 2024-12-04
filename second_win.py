@@ -33,21 +33,21 @@ class SecondWin(QWidget):
         self.age = QLineEdit("0")
         self.widgets.append(self.age)
 
-        self.text2 = QLabel('Ляжте на спину і заміряйте пульс за 15 секунд. Натисніть кнопку "Почати перший тест", щоб запустити таймер. Результат запишіть у відповідне поле.')
+        self.text2 = QLabel('Legen Sie sich auf den Rücken und messen Sie 15 Sekunden lang Ihren Puls. Klicken Sie auf die Schaltfläche „Ersten Test starten“, um den Timer zu starten. Tragen Sie das Ergebnis in das entsprechende Feld ein.')
         self.widgets.append(self.text2)
-        self.pbtn1 = QPushButton("Почати перший тест")
+        self.pbtn1 = QPushButton("Den ersten Test starten")
         self.widgets.append(self.pbtn1)
         self.t1 = QLineEdit("0")
         self.widgets.append(self.t1)
 
-        self.text3= QLabel('Виконайте 30 присідань за 45 секунд.Для цього натисніть кнопку "Почати робити присідання", щоб запустити лічильник присідань.')
+        self.text3= QLabel('Führen Sie 30 Kniebeugen in 45 Sekunden durch. Drücken Sie dazu die Taste „Start Squat“, um den Squat Counter zu starten.')
         self.widgets.append(self.text3)
-        self.pbtn2 = QPushButton("Почати робити присідання")
+        self.pbtn2 = QPushButton("Beginnen Sie mit Kniebeugen")
         self.widgets.append(self.pbtn2)
 
-        self.text4 = QLabel("Ляжте на спину і заміряйте пульс за перші 15 секунд хвилини, потім за останні 15 секунд хвилини без виміру пульсації.Результати запишіть у відповідні поля.")
+        self.text4 = QLabel("Legen Sie sich auf den Rücken und messen Sie den Puls in den ersten 15 Sekunden der Minute, dann in den letzten 15 Sekunden der Minute, ohne die Pulsation zu messen. Tragen Sie die Ergebnisse in die entsprechenden Felder ein.")
         self.widgets.append(self.text4)
-        self.pbtn3 = QPushButton("Почати фінальний тест")
+        self.pbtn3 = QPushButton("Den Abschlusstest starten")
         self.widgets.append(self.pbtn3)
 
         self.t2 = QLineEdit("0")
@@ -55,7 +55,7 @@ class SecondWin(QWidget):
         self.t3 = QLineEdit("0")
         self.widgets.append(self.t3)
 
-        self.pbtn4 = QPushButton("Надіслати результати")
+        self.pbtn4 = QPushButton("Ergebnisse einreichen")
         self.v_line1 = QVBoxLayout()
         self.v_line2 = QVBoxLayout()
         self.h_line = QHBoxLayout()
