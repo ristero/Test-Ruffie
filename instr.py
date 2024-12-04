@@ -1,21 +1,21 @@
 txt_title = "Здоров'я"
 h = 700
 b = 700
-hello = "ВІТаЮ"
-instraction = ("Ця програма дозволить вам за допомогою тесту Руф'є провести первинну діагностику вашого здоров'я.\n"
-"Проба Руф'є є навантажувальним комплексом, призначеним для оцінки працездатності серця при фізичному навантаженні.\n"
-"У випробуваного, що знаходиться в положенні лежачи на спині протягом 5 хв, визначають частоту пульсу за 15 секунд;\n"
-'потім протягом 45 секунд випробуваний виконує 30 присідань.\n'
-'Після закінчення навантаження випробуваний лягає, і в нього знову підраховується кількість пульсацій за перші 15 секунд,\n'
-"А потім — за останні 15 секунд першої хвилини періоду відновлення.\n"
-"Важливо! Якщо в процесі проведення випробування ви відчуєте себе погано (з'явиться запаморочення, шум\n"
-"вухах, сильна задишка та ін.), то тест необхідно перервати і звернутися до лікаря.\n"
-"Всьо буде, чєсна")
-pbtn_text = "Почати тест"
-txt_index = "Індекс Рут'є: "
-txt_workheart = 'Працездатність серця: '
-txt_res1 = "низька. Терміново зверніться до лікаря!"
-txt_res2 = "задовільна. Зверніться до лікаря!"
-txt_res3 = "середня. Можливо, варто додатково обстежитись у лікаря."
-txt_res4 = "вище середнього"
-txt_res5 = "висока"
+hello = "Grüsse dich!"
+instraction = ("Mit diesem Programm können Sie mithilfe des Rufier-Tests eine erste Diagnose Ihres Gesundheitszustands durchführen.\n"
+"Der Ruffier-Test ist ein Belastungskomplex zur Beurteilung der Herzleistung bei körperlicher Anstrengung.\n"
+"Der Proband, der 5 Minuten auf dem Rücken liegt, ermittelt in 15 Sekunden den Puls;\n"
+'Anschließend führt die Testperson innerhalb von 45 Sekunden 30 Kniebeugen durchь.\n'
+'Nach Ende der Belastung legt sich der Proband hin und die Anzahl der Pulsationen in den ersten 15 Sekunden wird erneut gezählt,\n'
+"Und dann in den letzten 15 Sekunden der ersten Minute der Erholungsphase.\n"
+"Wichtig! Wenn Sie sich während des Tests unwohl fühlen (Schwindel, Lärm in\n"
+"Ohren, starke Atemnot usw.), dann sollte der Test unterbrochen und ein Arzt aufgesucht werden.\n"
+"Viel Erfolg")
+pbtn_text = "Test starten"
+txt_index = "Ruffier-Index: "
+txt_workheart = 'Herzleistung: '
+txt_res1 = "niedrig. Suchen Sie dringend einen Arzt auf!"
+txt_res2 = "zufriedenstellend. Konsultieren Sie einen Arzt!"
+txt_res3 = "durchschnittlich. Vielleicht lohnt es sich, sich von einem Arzt untersuchen zu lassen."
+txt_res4 = "überdurchschnittlich"
+txt_res5 = "hoch"
