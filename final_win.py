@@ -1,4 +1,3 @@
-# напиши тут код третього екрана програми
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QLabel, QVBoxLayout
 from second_win import*
