@@ -23,12 +23,12 @@ class SecondWin(QWidget):
         self.resize(h,b)
     def initUI(self):
         self.widgets = []
-        self.name = QLabel("Ввкдіть П.І.Б.")
+        self.name = QLabel("Name")
         self.widgets.append(self.name)
-        self.lineedit1 = QLineEdit("П.І.Б")
+        self.lineedit1 = QLineEdit("Name")
         self.widgets.append(self.lineedit1)
 
-        self.text1 = QLabel("Повних років:")
+        self.text1 = QLabel("Alter:")
         self.widgets.append(self.text1)
         self.age = QLineEdit("0")
         self.widgets.append(self.age)
