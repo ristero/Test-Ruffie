@@ -1,4 +1,4 @@
-txt_title = "Здоров'я"
+txt_title = "Gesundheit"
 h = 700
 b = 700
 hello = "Grüsse dich!"
